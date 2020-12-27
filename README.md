@@ -9,3 +9,9 @@ Additionally, answering scientific questions using code is a topic I find very e
 ## Python Version
 
 I am using the Anaconda distribution of Python for Scientific Computing for this endeavor. I am using Python version 3.8.5.
+
+## Approach
+
+I'm still trying to determine what the best way to maintain this code will be. For the initial chapters where I'm just practicing performing some scientific
+computations in Python (as well as basic linear algebra and stats) I think Jupyter Notebooks will make for a handy way to both take notes and perform the
+scripting. As I get into more complex work I would like to write custom functions and classes to keep my code more _Pythonic_
